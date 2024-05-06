@@ -1,0 +1,15 @@
+.idea
+*.iml
+
+*.log
+
+*.html
+
+build
+target
+test-output
+allure-results
+.DS_Store
+
+screenshots
+receipts
